@@ -1,6 +1,6 @@
 # HCDecryptor
 Decryptor for HTTP Custom configuration files.
-### This is an javascript port of HCDecryptor tool made by the HCTools Group
+### This is a javascript port of HCDecryptor tool made by the HCTools Group
 
 # Requirements
 - Download Node.JS [Download Here](https://nodejs.org/en/download/ "Node.JS Download")
